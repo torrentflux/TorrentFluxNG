@@ -24,7 +24,7 @@ TorrentFlux-NG Upgrade file
     Note that although it is possible to use the upgraded database both
     for a epsylon3/torrentflux(https://github.com/epsylon3/torrentflux) 
     and a th3penguinwhisperer/torrentflux-ng 
-    (https://github.com/th3penguinwhisperer/torrentflux-ng)installation.
+    (https://github.com/torrentflux/TorrentFluxNG)installation.
     However there might be differences in the transferlist that is being
     displayed.
 
