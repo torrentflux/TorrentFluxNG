@@ -29,7 +29,7 @@ TorrentFlux-NG Upgrade file
 **********************************************************************/
 
     1. Getting the files
-    # git clone https://github.com/th3penguinwhisperer/torrentflux-ng.git
+    # git clone https://github.com/torrentflux/TorrentFluxNG.git
 
     2. Creating the database:
     # mysql -u dbuser -h iporhostname
